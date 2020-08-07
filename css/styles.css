@@ -1,3 +1,16 @@
+@font-face {
+  font-family: 'Sacramento';
+  src: url(../fonts/Sacramento.ttf); 
+}
+@font-face {
+  font-family: 'Merriweather';
+  src: url(../fonts/Merriweather.ttf); 
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url(../fonts/Montserrat.ttf); 
+}
+
 body {
   color: #40514E;
   margin: 0;
