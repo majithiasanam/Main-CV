@@ -188,6 +188,10 @@ a:hover {
   text-decoration: none;
 }
 
+#work h2 {
+  padding-top: 5vh;
+}
+
 .work_cards {
   display: flex;
   margin: 0 15%;
@@ -199,7 +203,7 @@ a:hover {
 .card {
   margin: 3% auto;
   box-shadow: 10px 10px 10px #000;
-  width: 45%;
+  width: 30%;
   position: relative;
   display: flex;
   flex-direction: column;
